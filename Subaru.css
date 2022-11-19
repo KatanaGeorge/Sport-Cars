@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,700&display=swap');
+html, body {
+background-image: url('cars/car3.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+.text {
+background-color: cyan;
+font-family: 'Open Sans', sans-serif;
+border: solid 2px black
+}
+.video {
+text-align: center;
+margin: 50px;
+}
